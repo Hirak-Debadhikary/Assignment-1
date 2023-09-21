@@ -1,6 +1,7 @@
 # Assignment-1
 
 
+# Logo
 
-![Alt text](![logo](https://github.com/Hirak-Debadhikary/Assignment-1/assets/103572541/46ae87ad-d156-4df5-87b2-9b5a596abc9a)
-)
+![logo](https://github.com/Hirak-Debadhikary/Assignment-1/assets/103572541/e959edb1-7fc8-460a-8ead-9a15ba5a7dc7)
+
